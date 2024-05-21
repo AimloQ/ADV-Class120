@@ -8,7 +8,7 @@ function setup() {
 
 function modelLoaded()
 {
-  console.log("Cooking up yhe model");
+  console.log("Cooking up the model");
   console.log("Model Loaded!!!");
 }
 
